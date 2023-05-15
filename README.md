@@ -1,5 +1,5 @@
 ### Hi, I'm Beknur🍀
-#### ![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white, "https://t.me/idhoroso")
+#### ![image](https://t.me/idhoroso, https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <!--
 **ne0teny/ne0teny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
