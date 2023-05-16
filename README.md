@@ -1,4 +1,5 @@
 ### Hi, I'm Beknur🍀
+#I am a young student from Kazakhstan dreaming of a job in the IT field, every day I gain experience and become better. Hope for our cooperation
 
 ## *Languages*
 ## [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
