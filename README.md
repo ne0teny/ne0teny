@@ -1,4 +1,4 @@
-## Hi, I'm Dauren🍀
+## Hi, I'm Beknur🍀
 #### I am a young student from Kazakhstan dreaming of a job in the IT field, every day I gain experience and become better. 2 years of experience in Web development. I love and develop in the field of Front-end. Hope for our cooperation
 
 # *Languages*
