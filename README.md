@@ -9,6 +9,13 @@
 
 #### My Discord: noellemymain
 
+### GitHub stats:
+![Pro100-Almaz's github stats](https://github-readme-stats.vercel.app/api?username=ne0teny&count_private=true&show_icons=true&hide_title=true&hide_border=true)
+
+### Top languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ne0teny&layout=compact&hide_title=true&hide_border=true&exclude_repo=Ecoqozgalys/data,Ecoqozgalys/main_backend,legal_organization_chat_bot,stop_bullying_kz,site-for-kanat,marsacalipsis,geometry_falls_unity2019.3)
+
+
 <!--
 **ne0teny/ne0teny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
